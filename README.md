@@ -224,7 +224,8 @@ No API activities were profiled.
 root@MidPC:/home/student/#
 ```
 <img width="494" alt="image" src="https://github.com/Nagadurg/PCA-Matrix-Addition-With-Unified-Memory/assets/94185707/7a7de789-3bdf-4c1e-9438-17b5606bb48b">
-##Removing the memsets
+
+## Removing the memsets
 ```
 root@MidPC:/home/student/Desktop# nvcc test.cu
 root@MidPC:/home/student/Desktop# ./a.out
